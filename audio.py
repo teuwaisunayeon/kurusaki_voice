@@ -218,6 +218,6 @@ async def resume(con):
                 paused[con.message.server.id]=False
 
 
-bot.run(os.environ['BOT_TOKEN'])
+bot.run(os.environ['NTExMjAxMDM5NTE3NDgzMDE5.DsseqQ.ZWKBASpAy88ZrHGZbRmU6PrHOJk'])
 
 #   run multiple functions after the play for loop
